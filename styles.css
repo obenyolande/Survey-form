@@ -70,9 +70,13 @@ select {
 }
 
 textarea {
-  width: 100%;
+  width: 94%;
   min-height: 7rem;
   display: block;
+  padding: 1rem;
+  margin: 0 auto;
+  border: none;
+  border-radius: 2px;
 }
 
 #submit {
@@ -86,7 +90,8 @@ textarea {
   color: white;
 }
 
-#comment {
+/* #comment {
   padding: 20px;
   width: 95%;
-}
+
+} */
