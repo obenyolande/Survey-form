@@ -12,7 +12,25 @@ git clone
 (git@github.com:) [obenyolande/Survey-form.git]
 cd to directory
 cd system-Info-Dashboard
+To get a copy up and running follow these simple steps.
+clone project
+Clone this repository using your terminal or command line with. "https://github.com/obenyolande/Survey-form.git"
+Change to the project directory by entering: cd Survey form in the terminal.
 ```
+- Command-line steps
+ git clone  "https://github.com/obenyolande/Survey-form.git"
+ "cd Survey-form"
+"git switch feature/game(to switch to the feature branch)"
+-Test
+click the link style.css found in the index.html file,it will redirect you into the the style.css file
+click "go live" found below the tool bar in your survey form
+it will carry you into the html form  displaye on the web browser.
+## Project Technical
+Built with;
+-HTML
+-CSS
+Vs code IDE
+
 ### Contact/Credit
 Created bY [obenyolande] (git@github.com:)
 For support contact obenyolande@gmail.com
