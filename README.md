@@ -24,7 +24,7 @@ Change to the project directory by entering: cd Survey form in the terminal.
 -Test
 click the link style.css found in the index.html file,it will redirect you into the the style.css file
 click "go live" found below the tool bar in your survey form
-it will carry you into the html form  displaye on the web browser.
+it will carry you into the HTML form  displaye on the web browser.
 ## Project Technical
 Built with;
 -HTML
