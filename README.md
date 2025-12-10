@@ -29,7 +29,7 @@ click "go live" found below the tool bar in your survey form
 it will carry you into the HTML form  displaye on the web browser.
 
 -Deployment link
-you can also have acess to the [Deployment page] https://obenyolande.github.io/Survey-form/
+you can also have acess to the [Deployment page] "https://obenyolande.github.io/Survey-form/"
 
 ## Project Technical
 Built with;
