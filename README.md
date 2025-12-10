@@ -2,6 +2,8 @@
 A simple HTML script prints a system information and that uses HTML to style and write HTML codes.
 ## Description
 This project shows how HTML script that prints a system information and that uses HTML style to write HTML codes.
+### Preview
+[Survey-form](<Asset/image/Screenshot from 2025-12-10 11-07-14.png>)
 ### Installation Requirements
 -download the file
 -cd to the directory where the program is found
@@ -25,6 +27,10 @@ Change to the project directory by entering: cd Survey form in the terminal.
 click the link style.css found in the index.html file,it will redirect you into the the style.css file
 click "go live" found below the tool bar in your survey form
 it will carry you into the HTML form  displaye on the web browser.
+
+-Deployment link
+you can also have acess to the [Deployment page] https://obenyolande.github.io/Survey-form/
+
 ## Project Technical
 Built with;
 -HTML

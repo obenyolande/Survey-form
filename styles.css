@@ -1,12 +1,11 @@
 body {
   background-image: linear-gradient(115deg, rgba(58 58 158 /80%), rgba(136 136 206 /70%)), url("Asset/image/survey.jpeg");
-  margin: 0;
-  padding: 0;
   box-sizing: border-box;
   font-family: Poppins, sans-serif;
   background-position: center;
   background-size: cover;
   color: white;
+  padding: 1rem 0;
 }
 
 fieldset {
@@ -23,7 +22,6 @@ fieldset {
 h1 {
   text-align: center;
   margin-bottom: 10px;
-  margin-top: 5cm;
   font-size: 1.562rem;
   font-weight: 100;
 }
@@ -36,11 +34,6 @@ p {
   font-size: 15px;
 }
 
-/*
-label {
-  margin: 2rem auto;
-}
-*/
 
 .one input,
 select {
@@ -91,8 +84,3 @@ label {
   margin-top: 8px;
   margin-bottom: auto;
 }
-
-/* #comment {
-  padding: 20px;
-  width: 95%;
-} */
